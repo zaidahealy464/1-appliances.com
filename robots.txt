@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: 
+
+Disallow: /appliances_12/
+Sitemap: http://www.1-appliances.com/sitemap.xml 
